@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="AVC">
+    <output-path>$PROJECT_DIR$/out/artifacts/AVC</output-path>
+    <root id="archive" name="AVC.war">
+      <element id="javaee-facet-resources" facet="02_HttpRequest/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="02_HttpRequest" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
